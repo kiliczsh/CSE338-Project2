@@ -145,7 +145,7 @@ adder add1(pc,32'h4,adder1out);
 adder add2(adder1out,sextad,adder2out);
 
 //Control unit
-control cont(instruc[31:26],balrn_gate,balrn_signal,regdest,alusrc,memtoreg,regwrite,memread,memwrite,branch,
+control cont(instruc[31:26],balrn_gate,regdest,alusrc,memtoreg,regwrite,memread,memwrite,branch,
 aluop1,aluop0,jspal_signal,blez_signal,bz_signal);
 
 //Sign extend unit

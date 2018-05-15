@@ -23,6 +23,6 @@ begin
 	default: sum=31'bx;	
 	endcase
 zout=~(|sum);
-nout=sum[7];
+nout=sum[31];
 end
 endmodule

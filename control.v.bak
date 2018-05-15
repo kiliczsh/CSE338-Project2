@@ -1,4 +1,4 @@
-module control(in,balrn_gate,balrn_signal,regdest,alusrc,memtoreg,regwrite,memread,memwrite,branch,aluop1,aluop2,jspal_signal,blez_signal,bz_signal);
+module control(in,balrn_gate,regdest,alusrc,memtoreg,regwrite,memread,memwrite,branch,aluop1,aluop2,jspal_signal,blez_signal,bz_signal,balrn_signal);
 input [5:0] in;
 input balrn_gate;
 input balrn_signal;

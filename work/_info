@@ -1,0 +1,199 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vadder
+Z0 !s110 1526141925
+!i10b 1
+!s100 Y;`Fz?LjC0QzPeNWf8_U<1
+I6l9Q9zoo796gY1kFBhE_e1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Modeltech_pe_edu_10.4a/examples/Comporg Project
+w955028208
+8C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/adder.v
+FC:/Modeltech_pe_edu_10.4a/examples/Comporg Project/adder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1526141925.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/adder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu32
+R0
+!i10b 1
+!s100 3_M;Q:o7mfXf9n[DL^e^B1
+I^ZNRo5zjThOzG]NVc758i2
+R1
+R2
+w1526080751
+8C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/alu32.v
+FC:/Modeltech_pe_edu_10.4a/examples/Comporg Project/alu32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/alu32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/alu32.v|
+!s101 -O0
+!i113 1
+R5
+valucont
+R0
+!i10b 1
+!s100 =JceI^;bICaH6@jVakoeR3
+I:0^20D@jPhU7N:XTm7CFd2
+R1
+R2
+w1526119788
+8C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/alucont.v
+FC:/Modeltech_pe_edu_10.4a/examples/Comporg Project/alucont.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/alucont.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/alucont.v|
+!s101 -O0
+!i113 1
+R5
+vcontrol
+R0
+!i10b 1
+!s100 c61^eGhE0no67XPUgZV<>3
+IRFjb1ckVQhlYNlJ1<JD_=3
+R1
+R2
+w1526141850
+8C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/control.v
+FC:/Modeltech_pe_edu_10.4a/examples/Comporg Project/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/control.v|
+!s101 -O0
+!i113 1
+R5
+vmult2_to_1_32
+R0
+!i10b 1
+!s100 ^aXF>kbOQm5iDYT=bV7M11
+IaO99JZ`8k:P>HQml:AkGO1
+R1
+R2
+w1021135086
+8C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/mult2_to_1_32.v
+FC:/Modeltech_pe_edu_10.4a/examples/Comporg Project/mult2_to_1_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/mult2_to_1_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/mult2_to_1_32.v|
+!s101 -O0
+!i113 1
+R5
+vmult2_to_1_5
+R0
+!i10b 1
+!s100 k]2`0V2=b67f6kc:ca8eK0
+I5e9SV;n3WM[_l;]EifLjM2
+R1
+R2
+w955028066
+8C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/mult2_to_1_5.v
+FC:/Modeltech_pe_edu_10.4a/examples/Comporg Project/mult2_to_1_5.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/mult2_to_1_5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/mult2_to_1_5.v|
+!s101 -O0
+!i113 1
+R5
+vprocessor
+R0
+!i10b 1
+!s100 ]9Oodc>FVZ>WWG5iUTJ4W3
+I[5Mn3OiMMaFA`^e=8Wejj1
+R1
+R2
+w1526141869
+8C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/processor.v
+FC:/Modeltech_pe_edu_10.4a/examples/Comporg Project/processor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/processor.v|
+!s101 -O0
+!i113 1
+R5
+vshift
+R0
+!i10b 1
+!s100 GWP55OEfIRVA_6M>iSY8d2
+INBIj4UlbEijQ4bR8]g^TT2
+R1
+R2
+w955028064
+8C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/shift.v
+FC:/Modeltech_pe_edu_10.4a/examples/Comporg Project/shift.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/shift.v|
+!s101 -O0
+!i113 1
+R5
+vsignext
+R0
+!i10b 1
+!s100 JAEfRFLIAaX=@V<j@h[jS1
+I;4J_EQm@0E64CJ8dDFN9J3
+R1
+R2
+w1335991790
+8C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/signext.v
+FC:/Modeltech_pe_edu_10.4a/examples/Comporg Project/signext.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Comporg Project/signext.v|
+!s101 -O0
+!i113 1
+R5
